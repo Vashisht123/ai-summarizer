@@ -7,7 +7,7 @@ langchain-community
 chromadb
 sentence-transformers
 huggingface-hub
-langchain-text-splitters
+
 langchain-text-splitters
 langchain>=0.1.0
 
