@@ -3,6 +3,7 @@ import os
 import logging
 from datetime import datetime
 from modules import ai_core, document_processor
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # --- Logging Configuration ---
 logging.basicConfig(
